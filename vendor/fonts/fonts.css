@@ -165,7 +165,6 @@
     font-weight: 100 900;
     font-display: swap;
     font-style: normal;
-    font-named-instance: 'Regular';
     src: url(./fonts/Inter-roman.var.woff2) format('woff2');
   }
 
@@ -174,7 +173,6 @@
     font-weight: 100 900;
     font-display: swap;
     font-style: italic;
-    font-named-instance: 'Italic';
     src: url(./fonts/Inter-italic.var.woff2) format('woff2');
   }
 
@@ -185,4 +183,3 @@
     font-style: oblique 0deg 10deg;
     src: url(./fonts/Inter.var.woff2) format('woff2');
   }
-  
