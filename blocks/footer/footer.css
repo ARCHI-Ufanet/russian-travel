@@ -15,6 +15,7 @@
 @media screen and (max-width: 610px) {
     .footer {
         grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    }
 }
 
 @media screen and (max-width: 320px) {
